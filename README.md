@@ -1,6 +1,6 @@
 # <span style="color:#800000">SC Technical College Database Management System</span>
 
-<p style="text-align:center"><img style ="align:center" src="school_banner.jpg"></p>
+<p style="text-align:center"><img style ="align:center" src="college_banner.jpg"></p>
 
 ## Description
 
