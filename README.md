@@ -22,8 +22,8 @@ This project involved the design and implementation of an updated database manag
 <img src="assets/ERD.jpg">
 <br>
 
-*Once credentials have been validated, the user will be able to perform a number of operations, dependent upon permission level.*<br><br>
-<img src="assets/edit_customer.jpg" width="485">&nbsp;&nbsp;<img src="assets/edit_employee.jpg" width="485">
+*Forms were created to manage data entry as well. .*<br><br>
+<img src="assets/class_entry_form.jpg" width="485">&nbsp;&nbsp;<img src="assets/user_entry_form.jpg" width="485">
 <!--
 <img src="assets/edit_customer.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_item.jpg" width="235">&nbsp;&nbsp;<img src="assets/edit_employee.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_special_item.jpg" width="235">-->
 <br><br>
