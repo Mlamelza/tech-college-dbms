@@ -23,7 +23,7 @@ This project involved the design and implementation of an updated database manag
 <br>
 
 *Forms were created to manage data entry as well. .*<br><br>
-<img src="assets/class_detail_form.jpg" height="440">&nbsp;&nbsp;&nbsp;<img src="assets/user_entry_form.jpg" height="440">
+<img src="assets/class_detail_form.jpg" height="435">&nbsp;&nbsp;&nbsp;<img src="assets/user_entry_form.jpg" height="435">
 <!--
 <img src="assets/edit_customer.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_item.jpg" width="235">&nbsp;&nbsp;<img src="assets/edit_employee.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_special_item.jpg" width="235">-->
 <br><br>
