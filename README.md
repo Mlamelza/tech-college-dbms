@@ -1,4 +1,4 @@
-# <span style="color:#800000">SC Technical College Database Management System</span>
+# <span style="color:#193f7d">SC Technical College Database Management System</span>
 
 <p style="text-align:center"><img style ="align:center" src="college_banner.jpg"></p>
 
@@ -8,7 +8,7 @@ This project involved the design and implementation of an updated database manag
 >Click here for [Project Documentation](school_database.pdf)
 
 ## Technical Specifications
-### <span style="color:#800000">Programming Languages | Environments</span>
+### <span style="color:#193f7d">Programming Languages | Environments</span>
 
 * HTML
 * CSS
