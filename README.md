@@ -19,7 +19,7 @@ This project involved the design and implementation of an updated database manag
 ### <span style="color:#193f7d">Screenshots</span>
 *User will first log into the Vittles POS system by entering their unique credentials and then choose the appropriate job position.*<br><br>
 <!--![Login Page](images/logo1.jpg)-->
-<img src="assets/login.jpg" width="485">&nbsp;&nbsp;<img src="assets/job_login.jpg" width="485">
+<img src="assets/login.jpg" width="485">&nbsp;&nbsp;<img src="assets/ERD_final.JPG">
 <br>
 
 *Once credentials have been validated, the user will be able to perform a number of operations, dependent upon permission level.*<br><br>
