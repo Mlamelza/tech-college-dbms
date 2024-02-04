@@ -4,7 +4,7 @@
 
 ## Description
 
-This project involved the design and implementation of an updated database management system for the *SC Technical College* educational network. This features a RDBMS created in the MS Access and MySQL Workbench environments, housing all of the required data for the schools specified. A total of 11 college profiles were created, each allowing the permissible user to manage student and teacher data records, update curriculum information, and run business reports as necessary. This focuses solely on the back-end area of development, primarily concentrating on the full database framework, which will eventually evolve into a front-end interface.
+This project involved the design and implementation of an updated database management system for the *SC Technical College* educational network. This features a RDBMS created in the MS Access and MySQL Workbench environments, housing all of the required data for the schools specified. A total of 11 college profiles were created, each allowing the permissible user to manage student & teacher data records, update curriculum information, and run reports as necessary. This focuses solely on the back-end area of development, primarily concentrating on the full database framework, which will eventually evolve into a front-end interface.
 >Click here for [Project Documentation](school_database.pdf)
 
 ## Technical Specifications
