@@ -4,7 +4,7 @@
 
 ## Description
 
-A fully-functional point-of-sale-system created for the *Vittles Restaurant Group*. This web application was designed with the employee in mind, ranging from the hourly, to the salaried management position. The system allows users to log in with their unique credentials, create customer order transactions, manage inventory levels, track menu item details, and edit employee information. 
+This project involved the design and implementation of an updated database management system for the SC Technical College educational network. This features a RDBMS created in the MS Access and MySQL Workbench environments, housing all of the required data for the schools specified. A total of 11 college profiles were created, each allowing the permissible user to manage student & teacher records, update curriculum data, and run reports as necessary. This focuses solely on the back-end development phase, primarily concentrating on the full database framework, which will eventually evolve into a front-end interface.
 <!--The front-end environment was established utilizing the Bootstrap architecture module, while the back-end took advantage of the LAMP stack structure. The web environment consists of a streamlined aesthetic, while incorporating a simple, yet effective, color palette. -->
 > Click here for [Video Demo](https://www.loom.com/share/fbf197d4fa9a4a728485856623861eb3?sid=bab0854c-5b9b-44b9-b749-d977d2704234).
 
