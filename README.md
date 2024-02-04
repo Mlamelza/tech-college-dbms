@@ -22,10 +22,10 @@ This project involved the design and implementation of an updated database manag
 <img src="assets/ERD.jpg">
 <br>
 
-*Forms were created to manage data entry as well. Examples shown below include user, course detail, and school department entry forms.*<br><br>
-<img src="assets/class_detail_form.jpg" height="438">&nbsp;&nbsp;&nbsp;<img src="assets/user_entry_form.jpg" height="438">
+*Forms were also created to manage data entry. Examples shown below include user, course info, and department entry form details.*<br><br>
+<img src="assets/class_detail_form.jpg" height="430">&nbsp;&nbsp;&nbsp;<img src="assets/user_entry_form.jpg" height="430 ">
 <br><br>
-<img src="assets/course_entry_form.jpg" width="495">&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/dept_entry_form.jpg" width="495"><br><br>
+<img src="assets/course_entry_form.jpg" width="485">&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/dept_entry_form.jpg" width="485"><br><br>
 <!--
 <img src="assets/add_job.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_location.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">-->
 
