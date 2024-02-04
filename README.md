@@ -27,7 +27,7 @@ This project involved the design and implementation of an updated database manag
 <br><br>
 <img src="assets/course_entry_form.jpg" width="475">&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/dept_entry_form.jpg" width="475"><br><br>
 
-*Once the project was finalized in MS Access, the RDBMS was re-created in the MySQL Workbench environment.*<br><br>
+*Once the project was finalized in MS Access, the RDBMS was re-created in the MySQL Workbench environment, as shown below.*<br><br>
 <img src="assets/class_detail_form.jpg" height="420">&nbsp;&nbsp;&nbsp;<img src="assets/user_entry_form.jpg" height="420">
 <br><br>
 <!--
