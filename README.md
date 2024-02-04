@@ -19,7 +19,7 @@ This project involved the design and implementation of an updated database manag
 ### <span style="color:#193f7d">Screenshots</span>
 *Entity-Relationship Diagram shown below for final database build in MS Access environment.*<br><br>
 <!--![Login Page](images/logo1.jpg)-->
-<img src="assets/ERD_Final.jpg">
+<img src="assets/ERD.jpg">
 <br>
 
 *Once credentials have been validated, the user will be able to perform a number of operations, dependent upon permission level.*<br><br>
