@@ -30,19 +30,14 @@ This project involved the design and implementation of an updated database manag
 <img src="assets/add_job.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_location.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">-->
 
 *Some of the operations that will be permitted include the following:*<br>
-<!--
- | Customer Data Management      | Employee Record Handling | Personal Account Administration     |
-| :---        |    :----:   |          ---: |
-| Product Inventory Tracking      | Menu Item Data Management       | Customer Order Transactions   |
-| Editing Employee Job Data  | Seating Chart Blueprint Build      | Customer Order Handling      |-->
 
 * User Data Management (Students, Professors)
 * Employee Record Handling (Staff, Faculty)
 * Personal Account Administration (All Users)
 * Course Detail & Curriculum Management
 * Grading Records Management & Tracking
-* Departmental Data Handling
-* Course & Student Scheduling Records Management
+* Academic Departmental Data Handling
+* Class & Student Scheduling Record Management
 
 *Shown below is the seating chart created dynamically from the database, thus allowing the user to create an order for the customer.*<br><br>
 <!--![Login Page](images/logo1.jpg)-->
