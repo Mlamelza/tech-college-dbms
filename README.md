@@ -23,7 +23,7 @@ This project involved the design and implementation of an updated database manag
 <br>
 
 *Forms were created to manage data entry as well. Examples shown below include user, course detail, and school department entry forms.*<br><br>
-<img src="assets/class_detail_form.jpg" height="435">&nbsp;&nbsp;&nbsp;<img src="assets/user_entry_form.jpg" height="435">
+<img src="assets/class_detail_form.jpg" height="438">&nbsp;&nbsp;&nbsp;<img src="assets/user_entry_form.jpg" height="438">
 <br><br>
 <img src="assets/course_entry_form.jpg" width="495">&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/dept_entry_form.jpg" width="495"><br><br>
 <!--
