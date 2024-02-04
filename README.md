@@ -17,7 +17,7 @@ This project involved the design and implementation of an updated database manag
 
 ## Program Walkthrough: A Brief Summary
 ### <span style="color:#193f7d">Screenshots</span>
-*User will first log into the Vittles POS system by entering their unique credentials and then choose the appropriate job position.*<br><br>
+*Entity-Relationship Diagram shown below for final database build in MS Access environment.*<br><br>
 <!--![Login Page](images/logo1.jpg)-->
 <img src="ERD_final.JPG">
 <br>
