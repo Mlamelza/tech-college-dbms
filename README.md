@@ -35,6 +35,8 @@ This project involved the design and implementation of an updated database manag
 <br><br>
 <img src="assets/create_department.png" width="475">&nbsp;&nbsp;<img src="assets/create_title.png" width="475">
 <br><br>
+<img src="assets/student_script.png" width="475">&nbsp;&nbsp;<img src="assets/professor_script.png" width="475">
+<br><br>
 <!--&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">-->
 
 *Some of the operations that will be permitted include the following:*<br>
