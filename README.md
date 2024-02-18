@@ -30,8 +30,12 @@ This project involved the design and implementation of an updated database manag
 *Once the project was finalized in MS Access, the RDBMS was re-created in the MySQL Workbench environment, as shown below.*<br><br>
 <img src="assets/create_database.jpg" width = "950">
 <br><br>
-<!--
-<img src="assets/add_job.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_location.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">-->
+
+<img src="assets/create_location.JPG" width="475">&nbsp;&nbsp;<img src="assets/create_term.JPG" width="475">
+<br><br>
+<img src="assets/create_department.JPG" width="475">&nbsp;&nbsp;<img src="assets/create_title.JPG" width="475">
+<br><br>
+<!--&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">-->
 
 *Some of the operations that will be permitted include the following:*<br>
 
