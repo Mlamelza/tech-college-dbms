@@ -31,9 +31,9 @@ This project involved the design and implementation of an updated database manag
 <img src="assets/create_database.png" width = "950">
 <br><br>
 
-<img src="assets/create_location.JPG" width="475">&nbsp;&nbsp;<img src="assets/create_term.JPG" width="475">
+<img src="assets/create_location.png" width="475">&nbsp;&nbsp;<img src="assets/create_term.png" width="475">
 <br><br>
-<img src="assets/create_department.JPG" width="475">&nbsp;&nbsp;<img src="assets/create_title.JPG" width="475">
+<img src="assets/create_department.png" width="475">&nbsp;&nbsp;<img src="assets/create_title.png" width="475">
 <br><br>
 <!--&nbsp;&nbsp;<img src="assets/add_permssion.jpg" width="235">&nbsp;&nbsp;<img src="assets/add_table.jpg" width="235">-->
 
