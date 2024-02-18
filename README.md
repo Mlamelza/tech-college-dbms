@@ -19,7 +19,7 @@ This project involved the design and implementation of an updated database manag
 ### <span style="color:#193f7d">Screenshots</span>
 *Entity-Relationship Diagram shown below for the final database framework built initially within the MS Access environment.*<br><br>
 <!--![Login Page](images/logo1.jpg)-->
-<img src="assets/ERD.JPG">
+<img src="assets/ERD.jpg">
 <br>
 
 *Forms were also created to manage data entry. Examples shown below include user, course info, and department entry form details.*<br><br>
