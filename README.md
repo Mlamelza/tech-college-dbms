@@ -48,10 +48,6 @@ This project involved the design and implementation of an updated database manag
 * Grading Records Management & Tracking
 * Academic Departmental Data Handling
 * Class & Student Scheduling Record Management
-
-*Shown below is the seating chart created dynamically from the database, thus allowing the user to create an order for the customer.*<br><br>
-<!--![Login Page](images/logo1.jpg)-->
-<img src="assets/seating_chart.JPG"><br><br><img src="assets/place_order.JPG">
 <br>
 
   
