@@ -1,0 +1,17 @@
+INSERT INTO day VALUES 
+(1,'Monday', 'M'), 
+(2,'Tuesday', 'T'), 
+(3,'Wednesday', 'W'), 
+(4,'Thursday', 'R'), 
+(5,'Friday', 'F'), 
+(6,'Saturday', 'S'),
+(7,'Sunday', 'U'), 
+(8,'Monday | Wednesday', 'MW'), 
+(9,'Tuesday | Thursday', 'TR'), 
+(10,'Monday | Wednesday | Friday', 'MWF'), 
+(11,'Monday | Tuesday | Wednesday', 'MTW'), 
+(12,'Monday | Tuesday | Wednesday | Thursday', 'MTWR'),
+(13,'Monday | Tuesday | Wednesday | Thursday | Friday', 'MTWRF'), 
+(14,'Saturday | Sunday', 'SU'), 
+(15,'To Be Announced', 'TBA'),
+(16, 'Monday | Tuesday', 'MT');

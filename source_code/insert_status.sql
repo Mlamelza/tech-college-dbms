@@ -1,0 +1,16 @@
+INSERT INTO status VALUES 
+(1,'Active', 'AC'), 
+(2,'Inactive', 'IN'), 
+(3,'Selected', 'SEL'), 
+(4,'Pending', 'PEN'), 
+(5,'Approved', 'APPR'), 
+(6,'Denied', 'D'),
+(7,'Registered', 'REG'), 
+(8,'Waitlisted', 'WL'), 
+(9,'Attending', 'ATTG'), 
+(10,'Not Attending', 'NATTG'), 
+(11,'Completed', 'CMPL'), 
+(12,'Closed', 'CLD'),
+(13,'Hold on Record', 'HLD'), 
+(14,'Time Conflict', 'TC'), 
+(15,'Open', 'OP');
