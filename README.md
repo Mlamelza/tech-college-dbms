@@ -30,7 +30,7 @@ This project involved the design and implementation of an updated database manag
 *Once the project was finalized in MS Access, the RDBMS was re-created in the MySQL Workbench environment, as shown below.*<br><br>
 <img src="assets/create_database.png" width = "950">
 <br><br>
-
+*Next, you can see examples of tables and views which wer4e then created once the database was initialized. See images below.*<br><br>
 <img src="assets/create_location.png" width="475">&nbsp;&nbsp;<img src="assets/create_term.png" width="475">
 <br><br>
 <img src="assets/create_department.png" width="475">&nbsp;&nbsp;<img src="assets/create_title.png" width="475">
