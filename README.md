@@ -31,9 +31,9 @@ This project involved the design and implementation of an updated database manag
 <img src="assets/create_database.png" width = "950">
 <br><br>
 *Next, you can see examples of tables and views which were then created once the database was initialized. See images below.*<br><br>
-<img src="assets/create_location.png" width="475">&nbsp;&nbsp;<img src="assets/create_term.png" width="475">
+<img src="assets/create_location.png" width="475">&nbsp;&nbsp;<img src="assets/create_title.png" width="475">
 <br><br>
-<img src="assets/create_department.png" width="475">&nbsp;&nbsp;<img src="assets/create_title.png" width="475">
+<img src="assets/create_department.png" width="475">&nbsp;&nbsp;<img src="assets/create_term.png" width="475">
 <br><br>
 <img src="assets/student_script.png" width="475">&nbsp;&nbsp;<img src="assets/professor_script.png" width="475">
 <br><br>
