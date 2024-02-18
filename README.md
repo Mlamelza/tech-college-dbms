@@ -51,4 +51,4 @@ This project involved the design and implementation of an updated database manag
 <br>
 
   
-Take a look at my [Project Source Code](https://github.com/Mlamelza/restaurant-pos-system/tree/main).
+Take a look at my [Project Source Code](https://github.com/Mlamelza/tech-college-dbms/tree/main).
